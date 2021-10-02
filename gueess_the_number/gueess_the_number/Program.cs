@@ -25,7 +25,7 @@ namespace gueess_the_number
                 }
                 if (y == x)
                 {
-                    Console.WriteLine("You guessed the number!!");
+                    Console.WriteLine("You guessed the number!");
                 }
             }
         }
