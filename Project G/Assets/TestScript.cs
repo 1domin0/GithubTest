@@ -25,7 +25,7 @@ public class TestScript : MonoBehaviour
         {
             print(x[i]);
         }
-
+        print("test");
     }
 
 }
