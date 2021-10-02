@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class TestScript : MonoBehaviour
 {
+    public Light sun;
     void Start()
     {
         //Bubble sort
@@ -26,6 +27,7 @@ public class TestScript : MonoBehaviour
             print(x[i]);
         }
         print("test");
+        sun.enabled = false;
     }
 
 }
