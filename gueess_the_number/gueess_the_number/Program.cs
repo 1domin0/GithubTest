@@ -8,6 +8,7 @@ namespace gueess_the_number
         {
             Random rnd = new Random();
             int x = rnd.Next(1, 10);
+            int y = 0;
 
             while (y != x)
             {
