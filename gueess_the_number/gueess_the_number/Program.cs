@@ -8,8 +8,6 @@ namespace gueess_the_number
         {
             Random rnd = new Random();
             int x = rnd.Next(1, 10);
-            //dsacos123
-            Console.Write("siema");
 
             while (y != x)
             {
@@ -27,7 +25,6 @@ namespace gueess_the_number
                     Console.WriteLine("You guessed the number!");
                 }
             }
-
         }
     }
 }
