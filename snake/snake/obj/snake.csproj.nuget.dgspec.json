@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Github\\GithubTest\\snake\\snake\\snake\\snake.csproj": {}
+    "D:\\Github\\GithubTest\\snake\\snake\\snake.csproj": {}
   },
   "projects": {
-    "D:\\Github\\GithubTest\\snake\\snake\\snake\\snake.csproj": {
+    "D:\\Github\\GithubTest\\snake\\snake\\snake.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Github\\GithubTest\\snake\\snake\\snake\\snake.csproj",
+        "projectUniqueName": "D:\\Github\\GithubTest\\snake\\snake\\snake.csproj",
         "projectName": "snake",
-        "projectPath": "D:\\Github\\GithubTest\\snake\\snake\\snake\\snake.csproj",
+        "projectPath": "D:\\Github\\GithubTest\\snake\\snake\\snake.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "D:\\Github\\GithubTest\\snake\\snake\\snake\\obj\\",
+        "outputPath": "D:\\Github\\GithubTest\\snake\\snake\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
