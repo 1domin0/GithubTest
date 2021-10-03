@@ -8,12 +8,8 @@ namespace gueess_the_number
         {
             Random rnd = new Random();
             int x = rnd.Next(1, 10);
-            int y = 0;
 
-            Console.WriteLine(x);
-            Console.WriteLine(x);
-            Console.WriteLine(x);
-            Console.WriteLine(x);
+            
 
             while (y != x)
             {
@@ -31,6 +27,7 @@ namespace gueess_the_number
                     Console.WriteLine("You guessed the number!");
                 }
             }
+
         }
     }
 }
