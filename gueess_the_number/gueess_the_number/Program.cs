@@ -11,6 +11,9 @@ namespace gueess_the_number
             int y = 0;
 
             Console.WriteLine(x);
+            Console.WriteLine(x);
+            Console.WriteLine(x);
+            Console.WriteLine(x);
 
             while (y != x)
             {
