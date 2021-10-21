@@ -13,7 +13,13 @@ namespace nauka
         public int Prop
         {
             get { return x; }
-            set { x = value; }
+            set 
+            {
+                if (value >= 0 && value <= 10)
+                    x = value;
+                else
+                    x = 42;
+            }
         }
 
     }
