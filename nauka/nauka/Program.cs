@@ -7,8 +7,7 @@ namespace nauka
 
         static void Main(string[] args)
         {
-            int x = 10;
-            int z = 20;
+            int x = 10; int z = 20;
             Console.WriteLine($"x = {x} z = {z}");
 
             Konstruktory();
