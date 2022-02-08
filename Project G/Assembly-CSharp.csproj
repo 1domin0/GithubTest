@@ -56,7 +56,12 @@
     <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\16.0\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\TestScript.cs" />
+    <Compile Include="Assets\Script\RigidBodyMovement.cs" />
+    <Compile Include="Assets\Script\Gun.cs" />
+    <Compile Include="Assets\Script\PlayerMovement.cs" />
+    <Compile Include="Assets\Script\CameraScript.cs" />
+    <Compile Include="Assets\Script\Health.cs" />
+    <Compile Include="Assets\Script\TestScript.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

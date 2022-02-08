@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace nauka
 {
-    public class Properties
+    static class Properties
     {
-        private int x;
+        private static int x;
 
-        public int Prop
+        public static int Prop
         {
             get { return x; }
             set 
